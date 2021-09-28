@@ -1,0 +1,29 @@
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Energy Counter.exe
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Energy Counter.xml
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Energy Counter.pdb
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InstallerEC.Form1.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InstallerEC.Form2.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InstallerEC.Resources.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ENERGY COUNTER.vbproj.GenerateResource.Cache
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Energy Counter.exe.manifest
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Energy Counter.application
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Energy Counter.exe
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Energy Counter.pdb
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Energy Counter.xml
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Energy Counter.exe.manifest
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Energy Counter.application
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.exe
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.xml
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.pdb
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\bin\Debug\Energy Counter.exe.manifest
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\bin\Debug\Energy Counter.application
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\bin\Debug\Energy Counter.exe
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\bin\Debug\Energy Counter.pdb
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\bin\Debug\Energy Counter.xml
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\EC.Principal.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\EC.Ayuda.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\EC.Resources.resources
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\ENERGY COUNTER.vbproj.GenerateResource.Cache
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.TrustInfo.xml
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.exe.manifest
+C:\Users\Güita\Documents\Visual Studio 2010\Projects\Energy Counter\Energy Counter\obj\x86\Debug\Energy Counter.application
