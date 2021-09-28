@@ -36,7 +36,7 @@ ronin:38b9b028bf926427d1cbbb3eb25c4732428becb1
 
 BINANCE: gavidia.eg@gmail.com
 
-Thank you very much and I hope you enjoy the program, any questions and suggestions you can send me to my personal discord Gavidia # 6007.
+Thank you very much and I hope you enjoy the program, any questions and suggestions you can send me to my personal discord Gavidia#6007.
 
 Remember that I also make custom programs, in case you want a damage counter with your team of specific axies! You can also contact me for my personal discord.
 
@@ -56,6 +56,6 @@ ronin:38b9b028bf926427d1cbbb3eb25c4732428becb1
 
 BINANCE: gavidia.eg@gmail.com
 
-Maraming salamat at inaasahan kong nasiyahan ka sa programa, anumang mga katanungan at mungkahi na maipapadala mo sa akin sa aking personal na pagtatalo sa Gavidia # 6007.
+Maraming salamat at inaasahan kong nasiyahan ka sa programa, anumang mga katanungan at mungkahi na maipapadala mo sa akin sa aking personal na pagtatalo sa Gavidia#6007.
 
 Tandaan na mayroon ka ring mga pasadyang programa, kaya kung nais mo ng isang counter ng pinsala sa iyong tukoy na axle kit! Maaari mo rin akong kontakin para sa aking personal na pagkakaiba.
